@@ -1,12 +1,10 @@
-# Help-Desk-support-simulation
-A hands-on lab simulating Tier 1 IT support using virtual machines and the osTicket ticketing system. This project demonstrates my ability to troubleshoot real-world issues, communicate professionally, and manage help desk operations using industry-standard tools.
-# 🖥️ Help Desk Support Simulation (Home Lab)
+#  Help Desk Support Simulation (Home Lab)
 
 A hands-on lab simulating Tier 1 IT support using virtual machines and the osTicket ticketing system. This project demonstrates my ability to troubleshoot real-world issues, communicate professionally, and manage help desk operations using industry-standard tools.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 - **Lab Environment**  
   Ubuntu (osTicket server), Kali Linux, Windows 11 — all running on VMware on macOS M3.
@@ -16,9 +14,9 @@ A hands-on lab simulating Tier 1 IT support using virtual machines and the osTic
 
 ---
 
-## 🔧 Setup Steps
+## Setup Steps
 
-### 1. 🖥️ Virtual Lab Setup
+### 1. Virtual Lab Setup
 
 - Installed and configured VMware
 - Created and ran VMs for:
@@ -26,11 +24,11 @@ A hands-on lab simulating Tier 1 IT support using virtual machines and the osTic
   - Kali Linux (security testing)
   - Windows 11 (user simulation)
 
-> 📸 *Screenshot Placeholder: VM list running in VMware*
+> *Screenshot Placeholder: VM list running in VMware*
 
 ---
 
-### 2. 🛠️ Apache + PHP + MySQL Setup
+### 2.Apache + PHP + MySQL Setup
 
 ```bash
 sudo apt update
