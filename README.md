@@ -24,7 +24,7 @@ A hands-on lab simulating Tier 1 IT support using virtual machines and the osTic
   - Kali Linux (security testing)
   - Windows 11 (user simulation)
 
-> *Screenshot Placeholder: VM list running in VMware*
+> <img width="364" height="432" alt="Screenshot 2025-07-31 at 20 19 44" src="https://github.com/user-attachments/assets/3c7a3720-aa26-4673-a959-e52015462966" />
 
 ---
 
