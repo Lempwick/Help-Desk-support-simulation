@@ -42,7 +42,8 @@ osTicket — open-source support ticket platform
   - Used MySQL credentials
   - Created admin user
 - Deleted setup directory for security
-- Screenshot Placeholder: Successful osTicket login page
+<img width="920" height="686" alt="Screenshot 2025-08-01 at 09 40 39" src="https://github.com/user-attachments/assets/edd64007-a5dd-4e67-8343-4af50bcb9c92" />
+
 
 ## Simulated Help Desk Scenarios (Choose 5+)
 
