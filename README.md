@@ -68,6 +68,8 @@ Create a new local user account on a Windows 11 system.
 User account successfully added and verified on the Windows system.
 <img width="968" height="719" alt="Screenshot 2025-08-01 at 19 26 12" src="https://github.com/user-attachments/assets/5b7283ba-231d-49a9-8689-6f32948412dc" />
 
+<img width="987" height="757" alt="Screenshot 2025-08-01 at 16 51 01" src="https://github.com/user-attachments/assets/71ae6baf-57e6-456f-a46a-f35205e132df" />
+
 
 **Lessons Learned:**  
 This method is ideal for Windows Pro editions. For Home editions, you can use `net user` via CMD.
