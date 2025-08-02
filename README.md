@@ -120,3 +120,28 @@ New user `sierra.contractor` created successfully with standard privileges and n
 
 **Lessons Learned:**  
 Always confirm account creation with system commands. Validate access rights to avoid privilege escalation. A secure SFTP user setup is critical for access-limited workflows.
+
+**Project Summary**
+
+## 🧠 What I Learned
+
+Through this hands-on lab, I developed real-world Tier 1 IT support skills, including:
+
+- **Technical Troubleshooting**  
+  Learned how to methodically diagnose and resolve hardware, software, and access issues across Windows and Linux environments.
+
+- **Documentation & Ticketing**  
+  Practiced structured issue documentation and professional communication using a real ticketing platform (osTicket), simulating workplace expectations.
+
+- **System Administration Basics**  
+  Created and managed local user accounts, verified access permissions, and used commands like `adduser`, `getent`, and `lusrmgr.msc` to simulate real admin tasks.
+
+- **Environment Setup & Tooling**  
+  Installed and configured Apache, MySQL, PHP, and osTicket in a LAMP stack — reinforcing package management and system configuration.
+
+- **Soft Skills**  
+  Wrote user-friendly responses, followed up on issues, and practiced concise technical writing for clarity and empathy.
+
+This project strengthened my confidence in supporting real users and prepared me for entry-level IT roles with practical, demonstrable skills.
+
+Copy and paste this directly into your README.md — let me know if you want it appended to your full doc or want a downloadable version! 💾📄
