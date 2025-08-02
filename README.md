@@ -69,6 +69,28 @@ User account successfully added and verified on the Windows system.
 
 <img width="987" height="757" alt="Screenshot 2025-08-01 at 16 51 01" src="https://github.com/user-attachments/assets/71ae6baf-57e6-456f-a46a-f35205e132df" />
 
+### 5. Simulated Ticket — Computer Won’t Power On
+
+**Ticket ID:** TICKET-002  
+**Issue Summary:**  
+User reports their desktop PC will not power on when pressing the power button.
+
+**Steps Taken:**  
+- Confirmed outlet is working by testing another device  
+- Checked power cable — was loosely connected to PSU  
+- Reseated cable and system powered on  
+- No signs of hardware failure
+
+**Resolution:**  
+Reconnected loose power cable. System powered on successfully.
+
+<img width="1029" height="798" alt="Screenshot 2025-08-01 at 16 42 32" src="https://github.com/user-attachments/assets/d14e4bef-6c16-4ba9-9cda-9a6bb2b43f88" />
+
+
+
+**Lessons Learned:**  
+Start with simple, non-invasive checks — loose cables are a common issue. Document all steps, even if the solution is quick.
+
 <img width="968" height="719" alt="Screenshot 2025-08-01 at 19 26 12" src="https://github.com/user-attachments/assets/5b7283ba-231d-49a9-8689-6f32948412dc" />
 
 
