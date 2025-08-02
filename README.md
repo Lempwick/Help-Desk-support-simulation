@@ -92,8 +92,31 @@ Reconnected loose power cable. System powered on successfully.
 
 <img width="1029" height="798" alt="Screenshot 2025-08-01 at 16 42 32" src="https://github.com/user-attachments/assets/d14e4bef-6c16-4ba9-9cda-9a6bb2b43f88" />
 
-
-
 **Lessons Learned:**  
 Start with simple, non-invasive checks — loose cables are a common issue. Document all steps, even if the solution is quick.
 
+### 6. Simulated Ticket — Add User to Ubuntu Server
+
+**Ticket ID:** TICKET-006  
+**Issue Summary:**  
+User requested the creation of a new standard Linux account (`sierra.contractor`) on the Ubuntu server for SFTP access. No administrative privileges required.
+
+**Steps Taken:**  
+- SSH’d into Ubuntu server as admin  
+- Verified the user account didn’t already exist: `id sierra.contractor`  
+- Created the user with: `sudo adduser sierra.contractor`  
+  - Set temporary password  
+  - Filled optional fields (Name, Room, etc.)  
+- Verified account presence: `getent passwd sierra.contractor`  
+- Checked shell and home directory: `grep sierra.contractor /etc/passwd`  
+- Confirmed no sudo privileges: `sudo -l -U sierra.contractor`
+
+**Resolution:**  
+New user `sierra.contractor` created successfully with standard privileges and no sudo access.
+
+<img width="693" height="840" alt="Screenshot 2025-08-02 at 04 16 40" src="https://github.com/user-attachments/assets/3ad32550-e8f4-4864-8424-f526f91e2a51" />
+
+<img width="780" height="760" alt="Screenshot 2025-08-01 at 16 57 35" src="https://github.com/user-attachments/assets/c4b50513-88cc-44b2-8ea2-d1ca61e8da04" />
+
+**Lessons Learned:**  
+Always confirm account creation with system commands. Validate access rights to avoid privilege escalation. A secure SFTP user setup is critical for access-limited workflows.
