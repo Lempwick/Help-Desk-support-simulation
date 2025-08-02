@@ -141,5 +141,3 @@ Through this hands-on lab, I developed real-world Tier 1 IT support skills, incl
   Wrote user-friendly responses, followed up on issues, and practiced concise technical writing for clarity and empathy.
 
 This project strengthened my confidence in supporting real users and prepared me for entry-level IT roles with practical, demonstrable skills.
-
-Copy and paste this directly into your README.md — let me know if you want it appended to your full doc or want a downloadable version! 💾📄
