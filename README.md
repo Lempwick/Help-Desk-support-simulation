@@ -58,11 +58,11 @@ Create a new local user account on a Windows 11 system.
 2. Entered `lusrmgr.msc` to launch Local Users and Groups Manager.  
 3. Navigated to `Users` → Right-clicked → `New User...`.  
 4. Filled in details:  
-   - Username: `jsmith`  
-   - Full Name: `John Smith`  
+   - Username: `diego.intern`  
+   - Full Name: `Diego Rivera`  
    - Temporary Password: `TempP@ss123`  
 5. Deselected "User must change password at next logon" for test purposes.  
-6. Clicked “Create” and confirmed user `jsmith` appeared.
+6. Clicked “Create” and confirmed user `diego.intern` appeared.
 
 **Resolution:**  
 User account successfully added and verified on the Windows system.
