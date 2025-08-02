@@ -121,8 +121,6 @@ New user `sierra.contractor` created successfully with standard privileges and n
 **Lessons Learned:**  
 Always confirm account creation with system commands. Validate access rights to avoid privilege escalation. A secure SFTP user setup is critical for access-limited workflows.
 
-**Project Summary**
-
 ## 🧠 What I Learned
 
 Through this hands-on lab, I developed real-world Tier 1 IT support skills, including:
