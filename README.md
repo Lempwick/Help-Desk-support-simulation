@@ -69,6 +69,12 @@ User account successfully added and verified on the Windows system.
 
 <img width="987" height="757" alt="Screenshot 2025-08-01 at 16 51 01" src="https://github.com/user-attachments/assets/71ae6baf-57e6-456f-a46a-f35205e132df" />
 
+<img width="968" height="719" alt="Screenshot 2025-08-01 at 19 26 12" src="https://github.com/user-attachments/assets/5b7283ba-231d-49a9-8689-6f32948412dc" />
+
+
+**Lessons Learned:**  
+This method is ideal for Windows Pro editions. For Home editions, you can use `net user` via CMD.
+
 ### 5. Simulated Ticket — Computer Won’t Power On
 
 **Ticket ID:** TICKET-002  
@@ -91,8 +97,3 @@ Reconnected loose power cable. System powered on successfully.
 **Lessons Learned:**  
 Start with simple, non-invasive checks — loose cables are a common issue. Document all steps, even if the solution is quick.
 
-<img width="968" height="719" alt="Screenshot 2025-08-01 at 19 26 12" src="https://github.com/user-attachments/assets/5b7283ba-231d-49a9-8689-6f32948412dc" />
-
-
-**Lessons Learned:**  
-This method is ideal for Windows Pro editions. For Home editions, you can use `net user` via CMD.
